@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "rinteger-operation-service-executor",
+    "name": "rinteger-operation-service",
+    "region": "ap-south-1"
+  },
+  "api": {
+    "id": "jrdrbr8zte"
+  }
+}
